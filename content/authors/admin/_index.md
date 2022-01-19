@@ -13,6 +13,6 @@ organizations:
     url: mgmt.au.dk
 superuser: true
 status:
-  icon: ☕️
+  icon: 
 avatar_filename: andersryomvilladsen_6314.jpg
 ---
