@@ -9,4 +9,5 @@ organizations:
 superuser: true
 status:
   icon: ☕️
+avatar_filename: andersryomvilladsen_6314.jpg
 ---
