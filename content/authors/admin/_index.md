@@ -1,6 +1,6 @@
 ---
 title: Anders Ryom Villadsen
-role: ""
+role: Professor at Department of Management, Aarhus University
 bio: ""
 social: []
 organizations:
