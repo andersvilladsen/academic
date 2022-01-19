@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2022-01-19T20:51:04.539Z
+date: 2022-01-19T20:55:40.437Z
 draft: false
 featured: false
 image:
