@@ -16,6 +16,3 @@ superuser: true
 status:
   ? icon
 ---
-CV
-
-<https://github.com/andersvilladsen/academic/blob/a9ca561dd3b8a948b2764a61fe9b74e2c357f3e5/Current%20CV.pdf>
